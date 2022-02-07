@@ -1,0 +1,5 @@
+.row:hover{
+	box-shadow: 2px 2px 20px green;
+ transition: all linear .3s;
+
+}
